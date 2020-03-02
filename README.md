@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project based on Modern React with Redux course from Stephen Grider.
+
+In this project,i try to create a Youtube clone with React.
+
+Before use this project,make sure you implement the Youtube api key.
+
 ## Available Scripts
 
 In the project directory, you can run:
